@@ -19,7 +19,7 @@ a {
   text-decoration: inherit;
 }
 a:hover {
-  color: #535bf2;
+  color: #b820a3;
 }
 
 body {
@@ -60,9 +60,9 @@ button:focus-visible {
     background-color: #ffffff;
   }
   a:hover {
-    color: #747bff;
+    color: #e200b1;
   }
   button {
-    background-color: #f9f9f9;
+    background-color: #cc2acc;
   }
 }
